@@ -10943,7 +10943,14 @@ p.lead {
 .dev-icons {
   font-size: 3rem;
 }
-
+.ts-icon {
+  background-color: #007acc;
+  color: white;
+  font-weight: bold;
+  padding: 0.15em 0.25em;
+  border-radius: 2px;
+  font-size: 0.8em;
+}
 section.resume-section {
   display: flex;
   align-items: center;
